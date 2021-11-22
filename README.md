@@ -1,11 +1,8 @@
 # Web Penetration Testing
 
-This cheatsheet is built for the Red Teamers and Penetration Testers such in order to help them to hunt the vulnerabilties. It is designed such that the beginners can understand the fundamentals and the professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, thereby we've performed and compiled this list over with our experience. Please share it with your connections and send your queries and feedbacks directly to [Aarti Singh](https://www.linkedin.com/in/aarti--singh/).
+This cheatsheet is built for the Red Teamers and Penetration Testers such in order to help them to hunt the vulnerabilties. It is designed such that the beginners can understand the fundamentals and the professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, thereby we've performed and compiled this list over with our experience. Please share it with your connections and send your queries and feedbacks directly to [The Watcher](https://www.linkedin.com/in/xd20111/).
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1]
-
+# [Join us on Discord ](https://discord.gg/2Fm9JUbGU3)
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
 2. [CSRF](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
